@@ -14,26 +14,26 @@ Descrição das pastas:
 
 Como construir e executar o projeto (Windows / prompt de comandos):
 1. Criar uma pasta vazia
-1. Clonar o repositório com: \
+2. Clonar o repositório com: 
 ```console 
 	git clone https://github.com/prof-fabriciogmc/dicas_git_python.git  .
 ```
-1. Criar um ambiente virtual com:\
+3. Criar um ambiente virtual com: 
 ```console
 	virtualenv ENV
 ```
-1. Navegar para ENV/Scripts/ e executar: \
+4. Navegar para ENV/Scripts/ e executar: 
 ```console
 	activate.bat
 ```
-1. Instalar as dependências com: \
+5. Instalar as dependências com:  
 ```console
 	pip instal -r requirements.txt
 ```
-1. Navegar para src/ e executar: \
+6. Navegar para src/ e executar:  
 ```console
 	python app.py
 ```
-1. Abrir o navegador e acessar a URL informada no prompt de comando.
+7. Abrir o navegador e acessar a URL informada no prompt de comando.
 
 
