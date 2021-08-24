@@ -16,7 +16,7 @@ Como construir e executar o projeto (Windows / prompt de comandos):
 1. Criar uma pasta vazia
 1. Clonar o repositório com: \
 ```console 
-  git clone https://github.com/prof-fabriciogmc/dicas_git_python.git  .
+	git clone https://github.com/prof-fabriciogmc/dicas_git_python.git  .
 ```
 1. Criar um ambiente virtual com:\
 ```console
@@ -32,7 +32,7 @@ Como construir e executar o projeto (Windows / prompt de comandos):
 ```
 1. Navegar para src/ e executar: \
 ```console
-python app.py
+	python app.py
 ```
 1. Abrir o navegador e acessar a URL informada no prompt de comando.
 
