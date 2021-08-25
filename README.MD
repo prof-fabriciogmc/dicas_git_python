@@ -28,7 +28,7 @@ Como construir e executar o projeto (Windows / prompt de comandos):
 ```
 5. Instalar as dependências com:  
 ```console
-	pip instal -r requirements.txt
+	pip install -r requirements.txt
 ```
 6. Navegar para src/ e executar:  
 ```console
